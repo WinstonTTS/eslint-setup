@@ -1,4 +1,5 @@
 ### Base Eslint-config
+[eslint documentation](https://eslint.org/)
 
 How I got this setup:
 ```javascript
